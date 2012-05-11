@@ -22,8 +22,8 @@
         "examples" : "./examples"
     },
     "dependencies" : {
-        "socket.io" : "0.8.6",
-        "socket.io-client" : "https://github.com/substack/socket.io-client/tarball/master",
+        "socket.io" : "~0.9",
+        "socket.io-client" : "git://github.com/jdahlq/socket.io-client.git",
         "lazy" : ">=1.0.5 <1.1",
         "dnode-protocol" : "~0.1.2",
         "jsonify" : "0.0.x"
